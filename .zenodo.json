@@ -1,0 +1,38 @@
+{
+  "title": "Dataset: Path Recovery Based on End-to-End Quality Prediction and Link-Level Fault Identification in Multi-Hop Networks",
+  "upload_type": "dataset",
+  "version": "2.0.0",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Jang, Jae-Won",
+      "orcid": "0009-0002-5999-7864",
+      "affiliation": "Department of Software Convergence, Soonchunhyang University"
+    },
+    {
+      "name": "Zahid, Samia",
+      "orcid": "0009-0000-5926-1510",
+      "affiliation": "Department of Software Convergence, Soonchunhyang University"
+    },
+    {
+      "name": "Jung, Minwoo",
+      "orcid": "0000-0003-3013-6104",
+      "affiliation": "School of Electronics Engineering, Kyungpook National University"
+    },
+    {
+      "name": "Kim, Dae-Young",
+      "orcid": "0000-0003-4901-3075",
+      "affiliation": "Department of Computer Software Engineering, Soonchunhyang University"
+    }
+  ],
+  "description": "<p>Measurement data supporting the manuscript Path Recovery Based on End-to-End Quality Prediction and Link-Level Fault Identification in Multi-Hop Networks.</p><p>The experiments use a 14-node Raspberry Pi mesh running babeld, with link degradation applied using Linux netem. The dataset contains 385 cycles: 150 collection cycles for model training and evaluation, and 235 cycles covering protocol-only, threshold-based, time-series-only, proposed, fixed path-wide recovery, and loss-only experiments.</p><p>The dataset includes end-to-end and per-link measurements, link labels, cycle-level recovery metrics, module outputs, and post-recovery paths. Column definitions, cycle exclusions, and data splits are documented in README.md.</p><p>Contact: Jae-Won Jang, fndl48@sch.ac.kr</p>",
+  "keywords": [
+    "multi-hop networks",
+    "path recovery",
+    "end-to-end quality prediction",
+    "link-level fault identification",
+    "network testbed"
+  ]
+}
