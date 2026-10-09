@@ -140,7 +140,7 @@ Rows before the first prediction have empty prediction columns.
 
 babeld 1.12.1 on Raspberry Pi 4 Model B; Linux netem for loss and delay emulation; PyTorch 2.9.0 (CPU) and LightGBM 4.6.0 for the prediction and identification modules.
 
-Contact: Dae-Young Kim, dyoung.kim@sch.ac.kr
+Contact: Jae-Won Jang, fndl48@sch.ac.kr
 
 ## License
 
